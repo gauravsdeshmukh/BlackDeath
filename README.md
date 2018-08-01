@@ -10,5 +10,5 @@ The program displays the simulation time left while running. Also, after executi
 
 Currently, this program can be executed conveniently from Spyder but I will try to make a UI for it soon. 
 
-A notebook version is available to view here (note that this does not contain the vaccination modification):
+A notebook version with complete description of each function is available to view here (note that this does not contain the vaccination modification):
 http://nbviewer.jupyter.org/gist/gauravsdeshmukh/89522824e8838bd2a98a5a9c1a984081
