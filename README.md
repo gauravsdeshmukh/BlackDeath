@@ -4,8 +4,8 @@ BlackDeath is a stochastic simulation of disease spread. It simulates the change
 2. Death probability
 3. Cure probability
 
-Recently, a fourth probability was introduced to add a new dimension to the simulation: vaccination probability
+Recently, a fourth probability was introduced to add a new dimension to the simulation: vaccination probability. The vaccine probability kicks in after the specified vaccinetime. Once a person is vaccinated, they cannot be infected by the disease again. 
 
-The program displays the simulation time left while running. Also, after execution, it displays three image plots and one moving animation.
+The program displays the simulation time left while running. Also, after execution, it displays three image plots (population stats, initial populace and final populace) and one animation.
 
 Currently, this program can be executed conveniently from Spyder but I will try to make a UI for it soon. 
